@@ -2,26 +2,26 @@
     "alunos": [
         {
             "id": 1,
-            "nome": "Miguel Padilha",
-            "email": "miguel@gmail.com",
+            "nome": "Caio Enrique",
+            "email": "ce@gmail.com",
             "curso": "Banco de dados"
         },
         {
             "id": 2,
-            "nome": "Isabelle Padilha",
-            "email": "isabelle@gmail.com",
+            "nome": "Kezia Alves Padilha",
+            "email": "kep@gmail.com",
             "curso": "Sistemas para internet"
         },
         {
             "id": 3,
-            "nome": "Livia Alves",
-            "email": "livia@gmail.com",
+            "nome": "Jose Correia",
+            "email": "Jc1@gmail.com",
             "curso": "Engenharia de Software"
         },
         {
             "id": 4,
-            "nome": "paula",
-            "email": "paula@gmail.com",
+            "nome": "Humberto Terceiro",
+            "email": "hterceiro@gmail.com",
             "curso": "Ciências da Computação"
         }
     ]

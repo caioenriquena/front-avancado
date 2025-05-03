@@ -7,11 +7,11 @@ const App = () => {
       
       {
         [
-          {nome:"Pedro", email: "pedro@gmail.com", curso: "Sistemas para internet"},
-          {nome:"Alana", email: "alana@gmail.com", curso: "Sistemas para internet"},
-          {nome:"Robson", email: "robson@gmail.com", curso: "Sistemas para internet"}
+          {nome:"Pedro", email: "pedro@gmail.com", curso: "Sistemas para internet",media:9},
+          {nome:"Alana", email: "alana@gmail.com", curso: "Sistemas para internet",media:6},
+          {nome:"Robson", email: "robson@gmail.com", curso: "Sistemas para internet",media:7}
         ].map((aluno)=>
-          <Aluno nome= {aluno.nome} email= {aluno.email} curso = {aluno.curso}/>
+          <Aluno nome= {aluno.nome} email= {aluno.email} curso = {aluno.curso} media= {aluno.media}/>
         )
       }
       
